@@ -1,20 +1,19 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
+title: Smoked Fish
+author: Nicholas Hillard
+location: Adrian Michigan
 thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
+summary: My connection to my Grandpa through food
 date: 2025-08-01
 layout: base
 tags:
-  - BBQ
-  - cookout
-  - community
+  - fish
+  - family
+  - seafood
 ---
 
 # Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
-
+This story comes from Nick Hillard who had a deep connection with his Grandpa through thier shared love of sea food
 {% include figure.html
   class="right"
   width="40%"
@@ -24,7 +23,7 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 
 
 ## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+He didnt know it at the time but his last meal with his Grandfather would have a connection to thier entire Relationship. Nicks love of sea food started with sharing smoked fish with his grandpa at the age of four the same snack he would share with him the last time he saw him alive.
 
 
 {% include audio.html
