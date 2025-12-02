@@ -12,12 +12,12 @@ tags:
   - seafood
 ---
 
-# Generic Story Title
+# smoked fish
 This story comes from Nick Hillard who had a deep connection with his Grandpa through thier shared love of sea food
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
+  caption="fish and family"
   image-path="bbq.png"
 %}
 
