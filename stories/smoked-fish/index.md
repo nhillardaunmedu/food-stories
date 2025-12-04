@@ -13,7 +13,7 @@ tags:
 ---
 
 # smoked fish
-This story comes from Nick Hillard who had a deep connection with his Grandpa through thier shared love of sea food
+This story comes from Nick Hillard who had a deep connection with his Grandpa through their shared love of sea food
 {% include figure.html
   class="right"
   width="40%"
@@ -33,4 +33,5 @@ He didnt know it at the time but his last meal with his Grandfather would have a
 
 ## Analysis: Smoke, Memory, and Belonging
 
-listing back to my food story what becomes very clear is how much food can transend things like taste. The fish less about how much i enjoyed it and more about a feeling of bonding and belonging with my Grandfather. This highlights an idea we talked about in class were food can have a deeper meaning and the sharing of food pathways can lead to a greater understanding of diffrent people. 
+listing back to my food story what becomes very clear is how much food can transend things like taste. The fish was less about how much i enjoyed it and more about a feeling of bonding and belonging with my Grandfather. This highlights an idea we talked about in class were food can have a deeper meaning and the sharing of food pathways can lead to a greater understanding of diffrent people. 
+It also shows that food can be about memory. Smoked fish and seafood in general will always be tied to memories of my grandpa.
